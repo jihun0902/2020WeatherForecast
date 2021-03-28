@@ -33,6 +33,4 @@ test.csv
 
 
 
-sample_submission.csv
 
--     제출 양식 예시
